@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Restful booker API Test Suite">
+  <test name="Test Basics 1">
+  
+      <classes>
+      <class name="APITESTING.COM.API.ApiProgram1"/>
+      </classes>
+  </test> <!-- Test -->    

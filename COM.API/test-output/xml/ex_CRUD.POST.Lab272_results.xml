@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.235">
+    <properties></properties>
+
+
+
+            <testcase
+                name="NonBDDStylePOSTNegative"
+                time="2.878"
+                classname="ex_CRUD.POST.Lab272">
+            </testcase>
+            <testcase
+                name="NonBDDStylePOSTPOsitive"
+                time="1.357"
+                classname="ex_CRUD.POST.Lab272">
+            </testcase>
+</testsuite>
