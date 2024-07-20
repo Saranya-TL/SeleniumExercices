@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ex_CRUD.PATCH.Lab274">
+      <class name="ex_CRUD.POST.Lab272">
         <methods>
-          <include name="testPatchREQUESTNonBDD"/>
+          <include name="NonBDDStylePOSTNegative"/>
         </methods>
-      </class> <!-- ex_CRUD.PATCH.Lab274 -->
+      </class> <!-- ex_CRUD.POST.Lab272 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4.235">
+           time="2.751">
     <properties></properties>
 
 
 
             <testcase
-                name="NonBDDStylePOSTNegative"
-                time="2.878"
+                name="NonBDDStylePOSTPOsitive"
+                time="0.406"
                 classname="ex_CRUD.POST.Lab272">
             </testcase>
             <testcase
-                name="NonBDDStylePOSTPOsitive"
-                time="1.357"
+                name="NonBDDStylePOSTNegative"
+                time="2.345"
                 classname="ex_CRUD.POST.Lab272">
             </testcase>
 </testsuite>

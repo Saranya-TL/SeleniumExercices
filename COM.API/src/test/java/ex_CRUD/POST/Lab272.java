@@ -34,7 +34,7 @@ public class Lab272 {
 				+ "    },\r\n"
 				+ "    \"additionalneeds\" : \"Breakfast,lunch\"\r\n"
 				+ "}";
-		
+		rs.relaxedHTTPSValidation();
 		rs.baseUri(BaseUri);
 		rs.basePath(Base_PATH);
 		rs.contentType(ContentType.JSON);
@@ -59,7 +59,7 @@ public class Lab272 {
 		String BaseUri = "https://restful-booker.herokuapp.com";
 		String Base_PATH = "/booking";
 		String PayLoad = "{}";
-		
+		rs.relaxedHTTPSValidation();
 		rs.baseUri(BaseUri);
 		rs.basePath(Base_PATH);
 		rs.contentType(ContentType.JSON);
